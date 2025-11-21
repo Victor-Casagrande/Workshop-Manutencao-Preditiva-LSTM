@@ -1,0 +1,10 @@
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar checkpoints do Notebook
+.ipynb_checkpoints/
+
+# (Opcional) Se você criou um ambiente virtual, ignore ele também
+venv/
+.env
